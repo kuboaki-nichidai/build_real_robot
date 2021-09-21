@@ -118,6 +118,7 @@ image::auto_ride.jpg[{full-width}]
 ** WSLのターミナルを開いて `tar xvf sample00.tar.gz` で展開します。
 ** 展開してできた sample00 ディレクトリを workspace の中へ移動します。
 ** workspace で `make app=sample00` でビルドを実行すると、 `app` ファイルができます。
+*** できあいの `sample00.app` ファイルが入っていても、ビルドし直してください。
 ** `app` のファイル名を `sample00.app` に変えておきます。
 . 「ev3-cheat-sheet.pdf」をみて、電源のON/OFF方法、ファイルの転送方法を確認しておきます。
 . SDカードケースに入っていたら、そこからmicro SDカードを取り出します。
